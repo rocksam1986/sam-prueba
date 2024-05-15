@@ -1,3 +1,3 @@
-nombre="oscar"
+nombre="sam"
 #nada
 print(nombre)
