@@ -1,4 +1,4 @@
-nombre="soy"
+nombre="sam"
 
 apellidos= "oscar"
 
