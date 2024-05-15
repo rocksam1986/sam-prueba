@@ -1,1 +1,6 @@
-esta es una prueba del nuevo disco
+nombre="soy"
+
+apellidos= "oscar"
+
+saludo= "hola"+nombre+ "" +apellidos +"¿como estas?"
+print (saludo)
